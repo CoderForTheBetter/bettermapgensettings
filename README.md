@@ -8,4 +8,4 @@ Next, go into the folder of this mod ("bettermapgensettings"), then go into the 
 
 USEAGE and WARNINGS: To use this mod, go into the new "Mapgen" tab on the main menu and adjust the settings how you see fit, they should be explained enough. Go create a new world and make sure to enable this mod in the "Configure" button. Make sure to note though, that if you use this mod on a world and generate new terrain, then the terrain will follow the settings you set with this mod. If you want to avoid the this, make sure not to enable this mod on a world you don't want to ruin.
 
-If one of your worlds gets ruin, I don't assume any responsibility.
+If one of your worlds gets ruined, I don't assume any responsibility.
