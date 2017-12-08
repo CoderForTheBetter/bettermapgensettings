@@ -1,0 +1,33 @@
+#This toggles the stone layer biomes. If you turned this on and made a wrold, then those blocks that have spawned will stay.
+test (test) string "test"
+
+#Top layer node
+top_layer_node (Top Layer Node) string dirt_with_grass
+
+#Toggles weather or not decorations should be enabled
+decorations_toggle (Decorations toggle) bool false
+
+#Cave generation toggle
+cave_generation_toggle (Cave generation toggle) bool false
+
+#Ore generation toggle
+ore_generation_toggle (Ore generation toggle) bool false
+
+#Clear all schematics
+clear_all_schematics (Clear all schematics) bool false
+
+#Clear all biomes and define a single one
+clear_all_biomes_and_define (Clear all biomes and define a single one) bool false
+
+#Top layer depth/height
+top_layer_depth (Top layer depth/height) int 1
+
+
+#Top filler node
+top_filler_node (Top filler Node) string dirt
+
+#Top layer filler depth
+top_filler_depth (Top filler depth) int 5
+
+#Stone node/block/material
+stone_node (Stone Node) string stone
