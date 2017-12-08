@@ -116,7 +116,7 @@ end
 local function get_formspec(tabview, name, tabdata)
 	--Where the formspec is defined
 	local retval = "label[0,-0.15;" .. fgettext("WARNING: if this mod is enabled on a world, it will start generating with these settings. Use same settings per world. Press 'Enter' for number boxes.") .. "]" .. 
-  "box[-0.1,-0.1;12.04,4.5;#999999]" ..
+  "box[-0.1,-0.1;12.03,5.7;#999999]" ..
 			"checkbox[0.25,0;cb_decorations_toggle;" .. fgettext("Decorations toggle (checked = decorations on)") .. ";"
 			.. dump(core.settings:get_bool("decorations_toggle")) .. "]" ..
       
